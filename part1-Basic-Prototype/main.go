@@ -1,7 +1,7 @@
 package main
 
 import (
-	"kongyixueyuan.com/publicChain/part1-Basic-Prototype/BLC"
+	"./BLC"
 	"fmt"
 )
 
