@@ -6,12 +6,7 @@
 - [中文文档 by liuchengxu](https://github.com/liuchengxu/blockchain-tutorial)
 
 
-### 2. 视频教程（持续更新）
-
-- [http://edu.kongyixueyuan.com/course/3](http://edu.kongyixueyuan.com/course/3)
-
-
-### 3. 视频教程大纲
+### 2. 教程大纲
 
     1. 区块数据结构
     2. 区块链数据结构
@@ -59,15 +54,4 @@
     44. 通过api调用智能合约
 
  
-
-### 4. 联系我
-
-- 公众号：区块链部落
-- 技术交流QQ群：263270946
-- 博客：http://liyuechun.org
-
-
-### 5. 备注⚠️
-
-- 代码、视频持续更新中....
 
